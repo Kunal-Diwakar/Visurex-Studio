@@ -37,9 +37,9 @@ img {
     object-fit: cover;
 }
 
-/* ::-webkit-scrollbar{
+::-webkit-scrollbar{
     display: none;
-} */
+}
 
 /* Lenis CSS */
 html.lenis,
